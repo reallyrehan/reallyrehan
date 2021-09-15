@@ -7,7 +7,7 @@ I'm a lazy engineer 🧑🏻‍💻, I make tools to solve hard problems the eas
 Some of the tools I have been working on,
 
 
-### <img src = "https://raw.githubusercontent.com/reallyrehan/flask-fileexplorer/master/static/folder5.png" style="width:15px;height:15px" >&nbsp;&nbsp;&nbsp;WiFile
+### <img src = "https://raw.githubusercontent.com/reallyrehan/flask-fileexplorer/master/static/folder5.png" style="width:15px;height:15px" >&nbsp;&nbsp;&nbsp;[WiFile](https://github.com/reallyrehan/flask-fileexplorer)
 
 [![GitHub](https://img.shields.io/github/stars/reallyrehan/flask-fileexplorer?style=social)](https://github.com/reallyrehan/flask-fileexplorer) &nbsp;
 [![GitHub](https://img.shields.io/github/forks/reallyrehan/flask-fileexplorer?style=social)](https://github.com/reallyrehan/flask-fileexplorer)
@@ -15,7 +15,7 @@ Some of the tools I have been working on,
 A Python-based file explorer that works over local area network (Wi-Fi/Ethernet) using Flask server.
 
 
-### <img src = "https://github.com/reallyrehan/skintro/raw/main/src/icon_circle.png" width="15px;" height="15px">&nbsp;&nbsp;&nbsp;SkIntro
+### <img src = "https://github.com/reallyrehan/skintro/raw/main/src/icon_circle.png" width="15px;" height="15px">&nbsp;&nbsp;&nbsp;[SkIntro](https://github.com/reallyrehan/skintro)
 [![Chrome Store version](https://img.shields.io/chrome-web-store/v/acjikceibgbijbnhfialnjhilckdajan.svg)](https://chrome.google.com/webstore/detail/skintro/acjikceibgbijbnhfialnjhilckdajan) 
 [![Chrome Store version](https://img.shields.io/chrome-web-store/users/acjikceibgbijbnhfialnjhilckdajan
 )](https://chrome.google.com/webstore/detail/skintro/acjikceibgbijbnhfialnjhilckdajan) 
@@ -25,7 +25,7 @@ A lightweight Chrome extension to auto-skip Intro, Recap, and Ads on streaming s
 
 
 
-### <img src = "https://raw.githubusercontent.com/reallyrehan/zoomcontrols/main/src/icon.png" width="15px;" height="15px">&nbsp;&nbsp;&nbsp;Zoom Controls
+### <img src = "https://raw.githubusercontent.com/reallyrehan/zoomcontrols/main/src/icon.png" width="15px;" height="15px">&nbsp;&nbsp;&nbsp;[Zoom Controls](https://github.com/reallyrehan/zoomcontrols)
 [![Chrome Store version](https://img.shields.io/chrome-web-store/v/henmmblkopelpkajjhhndaicecnccgff.svg)](https://chrome.google.com/webstore/detail/skintro/henmmblkopelpkajjhhndaicecnccgff)
 <!-- [![Chrome Store version](https://img.shields.io/chrome-web-store/users/henmmblkopelpkajjhhndaicecnccgff
 )](https://chrome.google.com/webstore/detail/skintro/henmmblkopelpkajjhhndaicecnccgff)  -->
@@ -34,7 +34,7 @@ A lightweight Chrome extension to auto-skip Intro, Recap, and Ads on streaming s
 A Chrome extension that makes the default, recorded-video player on Zoom much better by adding keyboard shortcuts, variable playback rates, option to rewind/forward video.
 
 
-### 🔔&nbsp;&nbsp;&nbsp;PushNotif
+### 🔔&nbsp;&nbsp;&nbsp;[PushNotif](https://github.com/reallyrehan/pushnotif)
 [![PyPI version](https://badge.fury.io/py/pushnotif.svg)](https://badge.fury.io/py/pushnotif)&nbsp;
 [![PyPI version](https://img.shields.io/pypi/dw/pushnotif)](https://badge.fury.io/py/pushnotif)&nbsp;
 
