@@ -40,13 +40,12 @@ A Chrome extension that makes the default, recorded-video player on Zoom much be
 
 A Python Package to generate a Push Notification to your IFTTT app after code execution.
 
-#
-<div class = "col">
-<img align="left" src = "https://github-readme-stats.vercel.app/api?username=reallyrehan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry">
-</div>
-<div class = "col">
-<img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reallyrehan&hide_border=true&layout=compact&theme=blueberry">
-</div>
+
+|       |  |
+| ----------- | ----------- |
+| <img align="left" src = "https://github-readme-stats.vercel.app/api?username=reallyrehan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry">      | <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reallyrehan&hide_border=true&layout=compact&theme=blueberry">       |
+
+
 
 
 
