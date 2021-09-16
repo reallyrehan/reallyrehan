@@ -17,7 +17,7 @@ A Python-based file explorer that works over local area network (Wi-Fi/Ethernet)
 
 ### <img src = "https://github.com/reallyrehan/skintro/raw/main/src/icon_circle.png" width="15px;" height="15px">&nbsp;&nbsp;&nbsp;[SkIntro](https://github.com/reallyrehan/skintro)
 [![Chrome Store version](https://img.shields.io/chrome-web-store/v/acjikceibgbijbnhfialnjhilckdajan.svg)](https://chrome.google.com/webstore/detail/skintro/acjikceibgbijbnhfialnjhilckdajan) 
-[![Chrome Store version](https://img.shields.io/chrome-web-store/users/acjikceibgbijbnhfialnjhilckdajan
+[![Chrome Store Users](https://img.shields.io/chrome-web-store/users/acjikceibgbijbnhfialnjhilckdajan
 )](https://chrome.google.com/webstore/detail/skintro/acjikceibgbijbnhfialnjhilckdajan) 
 
 
@@ -27,8 +27,8 @@ A lightweight Chrome extension to auto-skip Intro, Recap, and Ads on streaming s
 
 ### <img src = "https://raw.githubusercontent.com/reallyrehan/zoomcontrols/main/src/icon.png" width="15px;" height="15px">&nbsp;&nbsp;&nbsp;[Zoom Controls](https://github.com/reallyrehan/zoomcontrols)
 [![Chrome Store version](https://img.shields.io/chrome-web-store/v/henmmblkopelpkajjhhndaicecnccgff.svg)](https://chrome.google.com/webstore/detail/skintro/henmmblkopelpkajjhhndaicecnccgff)
-<!-- [![Chrome Store version](https://img.shields.io/chrome-web-store/users/henmmblkopelpkajjhhndaicecnccgff
-)](https://chrome.google.com/webstore/detail/skintro/henmmblkopelpkajjhhndaicecnccgff)  -->
+[![Chrome Store version](https://img.shields.io/chrome-web-store/users/henmmblkopelpkajjhhndaicecnccgff
+)](https://chrome.google.com/webstore/detail/skintro/henmmblkopelpkajjhhndaicecnccgff) 
 
 
 A Chrome extension that makes the default, recorded-video player on Zoom much better by adding keyboard shortcuts, variable playback rates, option to rewind/forward video.
