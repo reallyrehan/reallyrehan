@@ -36,7 +36,7 @@ A Chrome extension that makes the default, recorded-video player on Zoom much be
 
 ### 🔔&nbsp;&nbsp;&nbsp;[PushNotif](https://github.com/reallyrehan/pushnotif)
 [![PyPI version](https://badge.fury.io/py/pushnotif.svg)](https://badge.fury.io/py/pushnotif)&nbsp;
-[![PyPI version](https://img.shields.io/pypi/dw/pushnotif)](https://badge.fury.io/py/pushnotif)&nbsp;
+[![PyPI version](https://img.shields.io/pypi/dm/pushnotif)](https://badge.fury.io/py/pushnotif)&nbsp;
 
 A Python Package to generate a Push Notification to your IFTTT app after code execution.
 
