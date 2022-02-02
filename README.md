@@ -9,7 +9,7 @@ Some of the tools I have been working on,
 ### <img src = "numble.png" style="width:15px;height:15px" >&nbsp;&nbsp;&nbsp;[Numble](https://www.thenumble.app)
 <a href = "https://thenumble.app"><img src="https://img.shields.io/badge/Numble-v1-blue" target="_blank"></a>
 <a href="https://www.producthunt.com/posts/numble?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-numble" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=329712&theme=light" alt="Numble - Wordle for Math equations | Product Hunt" style="width: 100px; " /></a><br>
-It's like Wordle, but for math equations. Voted #20 Product of the Day on ProductHunt!
+It's like Wordle, but for math equations. Voted #20 Product of the Day on ProductHunt! 1K+ users on Day 1 of launch.
 
 
 ### <img src = "https://raw.githubusercontent.com/reallyrehan/flask-fileexplorer/master/static/folder5.png" style="width:15px;height:15px" >&nbsp;&nbsp;&nbsp;[WiFile](https://github.com/reallyrehan/flask-fileexplorer)
