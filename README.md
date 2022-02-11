@@ -13,6 +13,7 @@ It's like Wordle, but for math equations.
 - [Voted #2️0 Product of the Day on ProductHunt](https://www.producthunt.com/posts/numble) 🚀
 - [Featured on the Guardian](https://www.theguardian.com/games/2022/feb/06/worried-about-losing-wordle-here-are-some-alternatives-just-in-case) 🔥
 - 1K+ users on Day 1 of launch, Crossed 10k in one week 📈
+- Came across a 🐞? Drop me a [tweet/dm](https://twitter.com/ReallyRehan)
 
 
 
