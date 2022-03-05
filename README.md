@@ -35,21 +35,21 @@ A lightweight Chrome extension to auto-skip Intro, Recap, and Ads on streaming s
 
 
 
-### <img src = "https://raw.githubusercontent.com/reallyrehan/zoomcontrols/main/src/icon.png" width="15px;" height="15px">&nbsp;&nbsp;&nbsp;[Zoom Controls](https://github.com/reallyrehan/zoomcontrols)
-[![Chrome Store version](https://img.shields.io/chrome-web-store/v/henmmblkopelpkajjhhndaicecnccgff.svg)](https://chrome.google.com/webstore/detail/skintro/henmmblkopelpkajjhhndaicecnccgff)
-[![Chrome Store version](https://img.shields.io/chrome-web-store/users/henmmblkopelpkajjhhndaicecnccgff
-)](https://chrome.google.com/webstore/detail/skintro/henmmblkopelpkajjhhndaicecnccgff) 
-
-
-A Chrome extension that makes the default, recorded-video player on Zoom much better by adding keyboard shortcuts, variable playback rates, option to rewind/forward video.
-
-
 ### 🔔&nbsp;&nbsp;&nbsp;[PushNotif](https://github.com/reallyrehan/pushnotif)
 [![PyPI version](https://badge.fury.io/py/pushnotif.svg)](https://badge.fury.io/py/pushnotif)&nbsp;
 [![PyPI version](https://img.shields.io/pypi/dm/pushnotif)](https://badge.fury.io/py/pushnotif)&nbsp;
 
 A Python Package to generate a Push Notification to your IFTTT app after code execution.
 
+
+### <img src = "https://raw.githubusercontent.com/reallyrehan/zoomcontrols/main/src/icon.png" width="15px;" height="15px">&nbsp;&nbsp;&nbsp;[Zoom Controls](https://github.com/reallyrehan/zoomcontrols)
+[![GitHub](https://img.shields.io/github/stars/reallyrehan/zoomcontrols?style=social)](https://github.com/reallyrehan/zoomcontrols) &nbsp;
+<!-- [![Chrome Store version](https://img.shields.io/chrome-web-store/v/henmmblkopelpkajjhhndaicecnccgff.svg)](https://chrome.google.com/webstore/detail/skintro/henmmblkopelpkajjhhndaicecnccgff)
+[![Chrome Store version](https://img.shields.io/chrome-web-store/users/henmmblkopelpkajjhhndaicecnccgff
+)](https://chrome.google.com/webstore/detail/skintro/henmmblkopelpkajjhhndaicecnccgff)  -->
+
+
+A Chrome extension that makes the default, recorded-video player on Zoom much better by adding keyboard shortcuts, variable playback rates, option to rewind/forward video.
 
 |   Contributions    | Languages |
 | ----------- | ----------- |
