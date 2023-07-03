@@ -7,7 +7,7 @@ I'm a lazy engineer 🧑🏻‍💻, I make tools to solve hard problems the eas
 Some of the tools I have been working on,
 
 ### <img src = "numble.png" style="width:15px;height:15px" >&nbsp;&nbsp;&nbsp;[Numble](https://www.thenumble.app)
-<a href = "https://thenumble.app"><img src="https://img.shields.io/badge/Numble-v1-blue" target="_blank"></a>
+[![GitHub](https://img.shields.io/github/stars/reallyrehan/thenumble?style=social)](https://github.com/reallyrehan/thenumble) <a href = "https://thenumble.app"><img src="https://img.shields.io/badge/Numble-v1-blue" target="_blank"></a>
 <a href="https://www.producthunt.com/posts/numble?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-numble" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=329712&theme=light" alt="Numble - Wordle for Math equations | Product Hunt" style="width: 100px; " /></a><br>
 It's like Wordle, but for math equations.
 - [Featured on the Guardian](https://www.theguardian.com/games/2022/feb/06/worried-about-losing-wordle-here-are-some-alternatives-just-in-case) 🔥
